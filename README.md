@@ -1,7 +1,7 @@
 # aividexer 📇
 aividexer : # ai_video_indexer
 
-## AI video Indexer
+## AI Video Indexer
 
 ![aividexer001.png](./media/aividexer001.png)
 
