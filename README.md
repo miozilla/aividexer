@@ -1,6 +1,12 @@
 # aividexer 📇
 aividexer : # ai_video_indexer
 
+
+## Similar Skills Set
+- AWS : Amazon Rekognition Video + Transcribe
+- GCP : Cloud Video Intelligence + Cloud Vision API
+
+
 ## AI Video Indexer
 
 ![aividexer001.png](./media/aividexer001.png)
